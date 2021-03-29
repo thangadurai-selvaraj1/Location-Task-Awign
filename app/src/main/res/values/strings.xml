@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Awign Location Task</string>
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCCFkIvqiY1uREKc_asJ51oXmqaYMmKiOQ</string>
+
+
+    <string name="txt_your_not_allowed">Your not allowed to outside the circle</string>
+    <string name="txt_ok">OK</string>
+    <string name="txt_need_location_access">This app needs location access please allow location permission to further process.</string>
+</resources>
